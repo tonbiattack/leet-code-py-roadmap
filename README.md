@@ -1,1 +1,1 @@
-Neet CodeのRoadmapを参考にしたフォルダ構成のLeetCode問題
+Neet CodeのRoadmapを参考にしたフォルダ構成のLeetCode問題勉強用リポジトリ
